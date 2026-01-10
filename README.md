@@ -121,15 +121,14 @@
 
 ---
 
-### 📊 Моя статистика GitHub
+### 🏆 Мои достижения
 
-<div align="center">
+[![Trophy](https://github-profile-trophy.herokuapp.com/?username=Isaev-Alexander-1985&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isaev-Alexander-1985&theme=radical)](https://git.io/streak-stats)
+### 📊 Статистика
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaev-Alexander-1985&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Isaev-Alexander-1985&show_icons=true&theme=radical&cache_seconds=1800)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaev-Alexander-1985&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
