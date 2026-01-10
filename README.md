@@ -124,9 +124,11 @@
 ### 📊 Моя статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaev-Alexander-1985&show_icons=true&theme=radical&count_private=true" alt="Alexander's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaev-Alexander-1985&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+
+[![Alexander's Stats](https://github-readme-stats.vercel.app/api?username=Isaev-Alexander-1985&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaev-Alexander-1985&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
