@@ -142,3 +142,4 @@
 
 - **Telegram:** [@Lestat_1856](https://t.me/Lestat_1856)
 - **Email:** [lestat1856@gmail.com](mailto:lestat1856@gmail.com)
+- **Email:** [sandro-issa@yandex.ru](sandro-issa@yandex.ru)
