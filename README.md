@@ -127,7 +127,7 @@
 
 ### 📊 Статистика
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Isaev-Alexander-1985&show_icons=true&theme=radical&cache_seconds=1800)
+[![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Isaev-Alexander-1985&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaev-Alexander-1985&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
