@@ -112,13 +112,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏦 Прогнозирование оттока (Beta Bank)</h3>
+      <h3 align="center">🛒 Персонализация (E-commerce)</h3>
       <div align="center">
-          <img src="https://img.shields.io/badge/ML-Supervised-grey" alt="ML" />
-          <img src="https://img.shields.io/badge/Data-Imbalanced-red" alt="Data" />
+          <img src="https://img.shields.io/badge/ML-Pipelines-blue" alt="Pipelines" />
+          <img src="https://img.shields.io/badge/Interpret-SHAP-orange" alt="SHAP" />
       </div>
-      <p><strong>Суть:</strong> Модель для предсказания ухода клиентов из банка. Борьба с дисбалансом классов.</p>
-      <p><strong>Стек:</strong> Upsampling/Downsampling, Random Forest, F1-score.</p>
+      <p><strong>Суть:</strong> Прогноз снижения активности покупателей для персонализированных предложений.</p>
+      <p><strong>Стек:</strong> Sklearn Pipelines, ColumnTransformer, SHAP Analysis.</p>
       <p align="center">
         <a href="https://github.com/Isaev-Alexander-1985/yandex_practicum_supervised_learning"><strong>Посмотреть код »</strong></a>
       </p>
