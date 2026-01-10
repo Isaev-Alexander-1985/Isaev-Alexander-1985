@@ -127,8 +127,18 @@
 
 ### 📊 Статистика
 
-[![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Isaev-Alexander-1985&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_РЕАЛЬНЫЙ_ЛОГИН&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isaev-Alexander-1985&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isaev-Alexander-1985&layout=compact&theme=radical&langs_count=6" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
