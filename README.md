@@ -121,14 +121,6 @@
 
 ---
 
-### 🔥 Моя активность
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Isaev-Alexander-1985&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📊 Статистика
 
 <div align="center">
