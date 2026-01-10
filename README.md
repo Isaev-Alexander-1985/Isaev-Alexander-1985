@@ -38,82 +38,89 @@
 
 ---
 
-### 🚀 Избранные проекты
+### 🚀 Мои проекты
 
 <table>
+  <!-- РЯД 1 -->
   <tr>
-    <!-- ПРОЕКТ 1: КАРШЕРИНГ (Бизнес + SQL + ML) -->
     <td width="50%" valign="top">
       <h3 align="center">🚗 Оценка рисков каршеринга</h3>
       <div align="center">
-          <img src="https://img.shields.io/badge/SQL-Complex_Queries-blue" alt="SQL" />
+          <img src="https://img.shields.io/badge/SQL-PostgreSQL-blue" alt="SQL" />
           <img src="https://img.shields.io/badge/ML-CatBoost-green" alt="CatBoost" />
       </div>
-      <p><strong>Суть:</strong> Система оценки вероятности ДТП для водителей каршеринга на этапе бронирования.</p>
-      <p><strong>Ключевые навыки:</strong></p>
-      <ul>
-        <li>Сложные SQL-запросы (JOIN 4 таблиц).</li>
-        <li>Анализ корреляций (Phik) и важности признаков.</li>
-        <li>Бизнес-рекомендации по управлению автопарком.</li>
-      </ul>
+      <p><strong>Суть:</strong> Прогнозирование вероятности ДТП по профилю водителя и авто для управления рисками.</p>
+      <p><strong>Стек:</strong> SQL (Complex Joins), Phik, Feature Importance.</p>
       <p align="center">
-        <a href="ССЫЛКА_НА_РЕПО_КАРШЕРИНГ"><strong>Посмотреть код »</strong></a>
+        <a href="https://github.com/Isaev-Alexander-1985/road_accident_risk_assessment_system"><strong>Посмотреть код »</strong></a>
       </p>
     </td>
-    <!-- ПРОЕКТ 2: ТАКСИ (Временные ряды) -->
     <td width="50%" valign="top">
       <h3 align="center">🚖 Прогноз заказов такси</h3>
       <div align="center">
           <img src="https://img.shields.io/badge/Time_Series-Analysis-orange" alt="Time Series" />
-          <img src="https://img.shields.io/badge/RMSE-34.26-success" alt="RMSE" />
+          <img src="https://img.shields.io/badge/Metric-RMSE_34-success" alt="RMSE" />
       </div>
-      <p><strong>Суть:</strong> Предсказание спроса на такси на следующий час для оптимизации работы водителей.</p>
-      <p><strong>Ключевые навыки:</strong></p>
-      <ul>
-        <li>Ресемплирование и декомпозиция рядов.</li>
-        <li>Генерация признаков (Lags, Rolling Mean).</li>
-        <li>Работа с TimeSeriesSplit.</li>
-      </ul>
+      <p><strong>Суть:</strong> Предсказание пикового спроса на такси на следующий час для оптимизации автопарка.</p>
+      <p><strong>Стек:</strong> Statsmodels, Resampling, Lags & Rolling Mean.</p>
       <p align="center">
-        <a href="ССЫЛКА_НА_РЕПО_ТАКСИ"><strong>Посмотреть код »</strong></a>
+        <a href="https://github.com/Isaev-Alexander-1985/taxi_order_forecasting"><strong>Посмотреть код »</strong></a>
       </p>
     </td>
   </tr>
+
+  <!-- РЯД 2 -->
   <tr>
-    <!-- ПРОЕКТ 3: ВИКИШОП (NLP) -->
     <td width="50%" valign="top">
-      <h3 align="center">🚫 Классификация комментариев (NLP)</h3>
+      <h3 align="center">🚫 Поиск токсичных комментариев</h3>
       <div align="center">
           <img src="https://img.shields.io/badge/NLP-TF--IDF-yellow" alt="NLP" />
-          <img src="https://img.shields.io/badge/Score-F1_0.77-green" alt="F1" />
+          <img src="https://img.shields.io/badge/Library-Spacy-blue" alt="Spacy" />
       </div>
-      <p><strong>Суть:</strong> Инструмент модерации для поиска токсичных комментариев в интернет-магазине.</p>
-      <p><strong>Ключевые навыки:</strong></p>
-      <ul>
-        <li>Предобработка текста (Spacy, Lemmatization).</li>
-        <li>Балансировка классов.</li>
-        <li>Работа с TF-IDF и Logistic Regression.</li>
-      </ul>
+      <p><strong>Суть:</strong> ML-модератор для интернет-магазина. Классификация комментариев на позитивные и токсичные.</p>
+      <p><strong>Стек:</strong> Spacy (Lemmatization), Logistic Regression, Class Balancing.</p>
       <p align="center">
-        <a href="ССЫЛКА_НА_РЕПО_ВИКИШОП"><strong>Посмотреть код »</strong></a>
+        <a href="https://github.com/Isaev-Alexander-1985/project_for_wikishop"><strong>Посмотреть код »</strong></a>
       </p>
     </td>
-    <!-- ПРОЕКТ 4: СЕРДЦЕ (Deploy) -->
     <td width="50%" valign="top">
-      <h3 align="center">❤️ Предсказание сердечных заболеваний</h3>
+      <h3 align="center">📈 Маркетинговый анализ</h3>
       <div align="center">
-          <img src="https://img.shields.io/badge/FastAPI-Deploy-009688" alt="FastAPI" />
-          <img src="https://img.shields.io/badge/Project-Full_Cycle-blueviolet" alt="Full Cycle" />
+          <img src="https://img.shields.io/badge/Business-Segmentation-blueviolet" alt="Business" />
+          <img src="https://img.shields.io/badge/ML-Clustering-ff69b4" alt="ML" />
       </div>
-      <p><strong>Суть:</strong> Веб-сервис для оценки рисков сердечного приступа. Полный цикл ML-разработки.</p>
-      <p><strong>Ключевые навыки:</strong></p>
-      <ul>
-        <li>EDA и устранение дисбаланса.</li>
-        <li>Создание API на FastAPI + Swagger UI.</li>
-        <li>Деплой модели на Render.</li>
-      </ul>
+      <p><strong>Суть:</strong> Сегментация клиентов и предсказание снижения покупательской активности.</p>
+      <p><strong>Стек:</strong> SHAP Analysis, Feature Engineering, Pipeline.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/marketing"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- РЯД 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">❤️ Сервис прогноза болезней сердца</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/Deploy-FastAPI-009688" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/Tools-Swagger_UI-85ea2d" alt="Swagger" />
+      </div>
+      <p><strong>Суть:</strong> Полноценный веб-сервис для оценки здоровья. Полный цикл от EDA до Деплоя.</p>
+      <p><strong>Стек:</strong> FastAPI, Render Cloud, EDA, CatBoost.</p>
       <p align="center">
         <a href="https://github.com/Isaev-Alexander-1985/heart-attack-risk-predictor"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏦 Прогнозирование оттока (Beta Bank)</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/ML-Supervised-grey" alt="ML" />
+          <img src="https://img.shields.io/badge/Data-Imbalanced-red" alt="Data" />
+      </div>
+      <p><strong>Суть:</strong> Модель для предсказания ухода клиентов из банка. Борьба с дисбалансом классов.</p>
+      <p><strong>Стек:</strong> Upsampling/Downsampling, Random Forest, F1-score.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/yandex_practicum_supervised_learning"><strong>Посмотреть код »</strong></a>
       </p>
     </td>
   </tr>
