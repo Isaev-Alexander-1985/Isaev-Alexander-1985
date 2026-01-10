@@ -121,12 +121,10 @@
 
 ---
 
-### 🏆 Мои достижения
+### 🔥 Моя активность
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.herokuapp.com/?username=Isaev-Alexander-1985&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaev-Alexander-1985&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
