@@ -39,7 +39,40 @@
 
 ---
 
-### 🚀 Мои проекты
+### 🏆 Мастерские
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">❤️ Сервис прогноза болезней сердца</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/Deploy-FastAPI-009688" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/Tools-Swagger_UI-85ea2d" alt="Swagger" />
+      </div>
+      <p><strong>Суть:</strong> Полноценный веб-сервис для оценки здоровья. Полный цикл от EDA до Деплоя.</p>
+      <p><strong>Стек:</strong> FastAPI, Render Cloud, EDA, CatBoost.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/heart-attack-risk-predictor"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Маркетинговый анализ</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/Business-Segmentation-blueviolet" alt="Business" />
+          <img src="https://img.shields.io/badge/ML-Clustering-ff69b4" alt="ML" />
+      </div>
+      <p><strong>Суть:</strong> Сегментация клиентов и предсказание снижения покупательской активности.</p>
+      <p><strong>Стек:</strong> SHAP Analysis, Feature Engineering, Pipeline.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/marketing"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Учебные проекты
 
 <table>
   <!-- РЯД 1 -->
@@ -82,34 +115,6 @@
       <p><strong>Стек:</strong> Spacy (Lemmatization), Logistic Regression, Class Balancing.</p>
       <p align="center">
         <a href="https://github.com/Isaev-Alexander-1985/project_for_wikishop"><strong>Посмотреть код »</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Маркетинговый анализ</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/Business-Segmentation-blueviolet" alt="Business" />
-          <img src="https://img.shields.io/badge/ML-Clustering-ff69b4" alt="ML" />
-      </div>
-      <p><strong>Суть:</strong> Сегментация клиентов и предсказание снижения покупательской активности.</p>
-      <p><strong>Стек:</strong> SHAP Analysis, Feature Engineering, Pipeline.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/marketing"><strong>Посмотреть код »</strong></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- РЯД 3 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">❤️ Сервис прогноза болезней сердца</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/Deploy-FastAPI-009688" alt="FastAPI" />
-          <img src="https://img.shields.io/badge/Tools-Swagger_UI-85ea2d" alt="Swagger" />
-      </div>
-      <p><strong>Суть:</strong> Полноценный веб-сервис для оценки здоровья. Полный цикл от EDA до Деплоя.</p>
-      <p><strong>Стек:</strong> FastAPI, Render Cloud, EDA, CatBoost.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/heart-attack-risk-predictor"><strong>Посмотреть код »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
