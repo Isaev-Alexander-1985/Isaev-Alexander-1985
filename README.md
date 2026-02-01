@@ -5,7 +5,7 @@
 Я специализируюсь на анализе данных и машинном обучении. Имею опыт в управлении сложными инженерными проектами.
 
 - 🎓 Сейчас прохожу расширенный курс **Data Science в Яндекс Практикум**.
-- 🔭 Также прохожу курс **ClickHouse на Stepik**.
+- 📜 Успешно завершил курс **ClickHouse на Stepik** и получил сертификат.
 - 🌍 **Локация:** Иваново (Готов к переезду: Москва, СПб, возможна релокация).
 - 🗣 **Английский:** B2 (Upper Intermediate).
 
@@ -14,9 +14,10 @@
 ### 🛠 Мой технический стек
 
 <p align="left">
-  <!-- Языки -->
+  <!-- Языки и БД -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" alt="ClickHouse" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br>
   <!-- Core DS -->
@@ -149,4 +150,4 @@
 
 - **Telegram:** [@Lestat_1856](https://t.me/Lestat_1856)
 - **Email:** [lestat1856@gmail.com](mailto:lestat1856@gmail.com)
-- **Email:** [sandro-issa@yandex.ru](sandro-issa@yandex.ru)
+- **Email:** [sandro-issa@yandex.ru](mailto:sandro-issa@yandex.ru)
