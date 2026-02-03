@@ -28,9 +28,9 @@
   <br>
   <!-- ML & Advanced -->
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/CatBoost-111111?style=for-the-badge&logo=catboost&logoColor=green" alt="CatBoost" />
   <img src="https://img.shields.io/badge/NLP-Spacy-blue?style=for-the-badge" alt="Spacy" />
-  <img src="https://img.shields.io/badge/Time_Series-Statsmodels-blueviolet?style=for-the-badge" alt="Statsmodels" />
   <br>
   <!-- Tools & Deploy -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -78,6 +78,34 @@
   <!-- РЯД 1 -->
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🌟 Температура звезд</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/DL-PyTorch-EE4C2C" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/ML-Neural_Networks-blue" alt="NN" />
+      </div>
+      <p><strong>Суть:</strong> Использование нейронных сетей для определения температуры на поверхности звезд по их характеристикам.</p>
+      <p><strong>Стек:</strong> PyTorch, Dropout, Batch Normalization, Adam Optimizer.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/predicting_the_temperature_of_a_star"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Оценка стоимости авто</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/ML-LightGBM-blue" alt="LightGBM" />
+          <img src="https://img.shields.io/badge/Metric-RMSE-success" alt="RMSE" />
+      </div>
+      <p><strong>Суть:</strong> Разработка модели для определения рыночной стоимости автомобиля с пробегом с упором на скорость обучения и предсказания.</p>
+      <p><strong>Стек:</strong> LightGBM, CatBoost, Scikit-learn, Hyperparameter Tuning.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/determining_the_value_of_cars"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- РЯД 2 -->
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🚗 Оценка рисков каршеринга</h3>
       <div align="center">
           <img src="https://img.shields.io/badge/SQL-PostgreSQL-blue" alt="SQL" />
@@ -103,7 +131,7 @@
     </td>
   </tr>
 
-  <!-- РЯД 2 -->
+  <!-- РЯД 3 -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚫 Поиск токсичных комментариев</h3>
