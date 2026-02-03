@@ -90,7 +90,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚗 Оценка стоимости авто</h3>
+      <h3 align="center">🚘 Оценка стоимости авто</h3>
       <div align="center">
           <img src="https://img.shields.io/badge/ML-LightGBM-blue" alt="LightGBM" />
           <img src="https://img.shields.io/badge/Metric-RMSE-success" alt="RMSE" />
