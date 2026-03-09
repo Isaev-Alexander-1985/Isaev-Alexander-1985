@@ -158,6 +158,34 @@
       </p>
     </td>
   </tr>
+
+  <!-- РЯД 4 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌡️ Прогноз температуры стали</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/ML-CatBoost-green" alt="CatBoost" />
+          <img src="https://img.shields.io/badge/Industry-Optimization-blueviolet" alt="Industry" />
+      </div>
+      <p><strong>Суть:</strong> Оптимизация энергопотребления на комбинате за счет точного предсказания температуры сплава.</p>
+      <p><strong>Стек:</strong> CatBoost, Regression, Feature Engineering, SQL.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/predicting_steel_temperature"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Поиск изображений (PoC)</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/NLP-BERT-blue" alt="BERT" />
+          <img src="https://img.shields.io/badge/CV-ResNet50-red" alt="ResNet50" />
+      </div>
+      <p><strong>Суть:</strong> Мультимодальная система поиска референсных фотографий по текстовому описанию сцены.</p>
+      <p><strong>Стек:</strong> BERT, ResNet50, Deep Learning, Late Fusion.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/Images_search_by_text_query"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
