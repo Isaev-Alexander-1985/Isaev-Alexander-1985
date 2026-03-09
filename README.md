@@ -26,15 +26,17 @@
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <br>
-  <!-- ML & Advanced -->
+  <!-- ML & DL -->
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/CatBoost-111111?style=for-the-badge&logo=catboost&logoColor=green" alt="CatBoost" />
-  <img src="https://img.shields.io/badge/NLP-Spacy-blue?style=for-the-badge" alt="Spacy" />
   <br>
-  <!-- Tools & Deploy -->
+  <!-- NLP & CV -->
+  <img src="https://img.shields.io/badge/NLP-Transformers/BERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="BERT" />
+  <img src="https://img.shields.io/badge/CV-ResNet/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="ResNet" />
+  <img src="https://img.shields.io/badge/NLP-Spacy-blue?style=for-the-badge" alt="Spacy" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 ---
