@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 Поиск изображений по тексту</h3>
+      <h3 align="center">🔍 Поиск изображений (PoC)</h3>
       <div align="center">
           <img src="https://img.shields.io/badge/NLP-BERT-blue" alt="BERT" />
           <img src="https://img.shields.io/badge/CV-ResNet50-red" alt="ResNet50" />
@@ -107,28 +107,3 @@
 </table>
 
 ---
-
-### 🚀 Учебные проекты
-
-<table>
-  <!-- РЯД 1 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌟 Температура звезд</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/DL-PyTorch-EE4C2C" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/ML-Neural_Networks-blue" alt="NN" />
-      </div>
-      <p><strong>Суть:</strong> Использование нейронных сетей для определения температуры на поверхности звезд по их характеристикам.</p>
-      <p><strong>Стек:</strong> PyTorch, Dropout, Batch Normalization, Adam Optimizer.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/predicting_the_temperature_of_a_star"><strong>Посмотреть код »</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚘 Оценка стоимости авто</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/ML-LightGBM-blue" alt="LightGBM" />
-          <img src="https://img.shields.io/badge/Metric-RMSE-success" alt="RMSE" />
-      </div>
-      <p><strong>Суть:</strong> Разработка модели для определения рыночной стоимости автомобиля с пробегом с
