@@ -1,12 +1,17 @@
+Вот полный код вашего `README.md` целиком. Я структурировал его так, чтобы сначала шли ваши самые сильные (выпускные) проекты, затем прикладные сервисы, а в конце — остальные учебные работы.
+
+Просто скопируйте этот текст, замените им содержимое вашего файла и сохраните.
+
+```markdown
 # Привет, меня зовут Александр! 👋
 
 ### 👨‍💻 Data Scientist
 
-Я специализируюсь на анализе данных и машинном обучении. Имею опыт в управлении сложными инженерными проектами.
+Я специализируюсь на анализе данных и машинном обучении. Имею опыт в управлении сложными инженерными проектами и создании сквозных ML-решений.
 
-- 🎓 **Выпускник курса Data Science в Яндекс Практикуме** 
+- 🎓 **Выпускник расширенного курса Data Science в Яндекс Практикуме** 
   ([Диплом RU](https://github.com/Isaev-Alexander-1985/Isaev-Alexander-1985/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%98%D1%81%D0%B0%D0%B5%D0%B2_2026-11039-012.pdf) | [Diploma ENG](https://github.com/Isaev-Alexander-1985/Isaev-Alexander-1985/blob/main/Diploma_ENG_%D0%98%D1%81%D0%B0%D0%B5%D0%B2_2026-11039-012.pdf))
-- 📜 **Успешно завершил курс ClickHouse на Stepik** ([смотреть сертификат](https://stepik.org/cert/3112566)).
+- 📜 **Сертифицированный специалист по ClickHouse** ([смотреть сертификат Stepik](https://stepik.org/cert/3112566)).
 - 🌍 **Локация:** Иваново (Готов к переезду: Москва, СПб, возможна релокация).
 - 🗣 **Английский:** B2 (Upper Intermediate).
 
@@ -42,30 +47,65 @@
 
 ---
 
-### 🏆 Мастерские
+### 🎓 Выпускные (дипломные) проекты
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">❤️ Сервис прогноза болезней сердца</h3>
+      <h3 align="center">🔍 Поиск изображений по тексту</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/NLP-BERT-blue" alt="BERT" />
+          <img src="https://img.shields.io/badge/CV-ResNet50-red" alt="ResNet50" />
+          <img src="https://img.shields.io/badge/DL-PyTorch-EE4C2C" alt="PyTorch" />
+      </div>
+      <p><strong>Суть:</strong> Мультимодальная система поиска референсных фотографий. Модель сопоставляет текстовое описание со смысловым содержанием снимка.</p>
+      <p><strong>Стек:</strong> BERT, ResNet50, Deep Learning, Late Fusion, Cosine Similarity.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/Images_search_by_text_query"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌡️ Прогноз температуры стали</h3>
+      <div align="center">
+          <img src="https://img.shields.io/badge/ML-CatBoost-green" alt="CatBoost" />
+          <img src="https://img.shields.io/badge/Industry-Optimization-blueviolet" alt="Industry" />
+          <img src="https://img.shields.io/badge/Metric-MAE_6.0-success" alt="MAE" />
+      </div>
+      <p><strong>Суть:</strong> Оптимизация энергопотребления на металлургическом комбинате за счет точного предсказания финальной температуры сплава.</p>
+      <p><strong>Стек:</strong> CatBoost, Feature Engineering, SQL, анализ техпроцесса.</p>
+      <p align="center">
+        <a href="https://github.com/Isaev-Alexander-1985/Industry"><strong>Посмотреть код »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Прикладные мастерские
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">❤️ Сервис оценки рисков здоровья</h3>
       <div align="center">
           <img src="https://img.shields.io/badge/Deploy-FastAPI-009688" alt="FastAPI" />
-          <img src="https://img.shields.io/badge/Tools-Swagger_UI-85ea2d" alt="Swagger" />
+          <img src="https://img.shields.io/badge/Tools-Render_Cloud-black" alt="Render" />
       </div>
-      <p><strong>Суть:</strong> Полноценный веб-сервис для оценки здоровья. Полный цикл от EDA до Деплоя.</p>
-      <p><strong>Стек:</strong> FastAPI, Render Cloud, EDA, CatBoost.</p>
+      <p><strong>Суть:</strong> Веб-сервис для прогноза болезней сердца. Реализован полный цикл: от EDA до развертывания в облаке.</p>
+      <p><strong>Стек:</strong> FastAPI, Render, CatBoost, Swagger UI.</p>
       <p align="center">
         <a href="https://github.com/Isaev-Alexander-1985/heart-attack-risk-predictor"><strong>Посмотреть код »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Маркетинговый анализ</h3>
+      <h3 align="center">📈 Маркетинговая сегментация</h3>
       <div align="center">
-          <img src="https://img.shields.io/badge/Business-Segmentation-blueviolet" alt="Business" />
           <img src="https://img.shields.io/badge/ML-Clustering-ff69b4" alt="ML" />
+          <img src="https://img.shields.io/badge/Interpret-SHAP-orange" alt="SHAP" />
       </div>
-      <p><strong>Суть:</strong> Сегментация клиентов и предсказание снижения покупательской активности.</p>
-      <p><strong>Стек:</strong> SHAP Analysis, Feature Engineering, Pipeline.</p>
+      <p><strong>Суть:</strong> Выявление сегментов покупателей и предсказание оттока для персонализации предложений.</p>
+      <p><strong>Стек:</strong> SHAP Analysis, Feature Engineering, Pipelines.</p>
       <p align="center">
         <a href="https://github.com/Isaev-Alexander-1985/marketing"><strong>Посмотреть код »</strong></a>
       </p>
@@ -75,118 +115,43 @@
 
 ---
 
-### 🚀 Учебные проекты
+### 🚀 Другие ключевые проекты
 
 <table>
-  <!-- РЯД 1 -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌟 Температура звезд</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/DL-PyTorch-EE4C2C" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/ML-Neural_Networks-blue" alt="NN" />
-      </div>
-      <p><strong>Суть:</strong> Использование нейронных сетей для определения температуры на поверхности звезд по их характеристикам.</p>
-      <p><strong>Стек:</strong> PyTorch, Dropout, Batch Normalization, Adam Optimizer.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/predicting_the_temperature_of_a_star"><strong>Посмотреть код »</strong></a>
-      </p>
+      <p>Использование нейросетей (PyTorch) для определения характеристик звезд.</p>
+      <p align="center"><a href="https://github.com/Isaev-Alexander-1985/predicting_the_temperature_of_a_star">Код проекта</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚘 Оценка стоимости авто</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/ML-LightGBM-blue" alt="LightGBM" />
-          <img src="https://img.shields.io/badge/Metric-RMSE-success" alt="RMSE" />
-      </div>
-      <p><strong>Суть:</strong> Разработка модели для определения рыночной стоимости автомобиля с пробегом с упором на скорость обучения и предсказания.</p>
-      <p><strong>Стек:</strong> LightGBM, CatBoost, Scikit-learn, Hyperparameter Tuning.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/determining_the_value_of_cars"><strong>Посмотреть код »</strong></a>
-      </p>
+      <p>Сравнение LightGBM и CatBoost для оценки рыночной стоимости авто.</p>
+      <p align="center"><a href="https://github.com/Isaev-Alexander-1985/determining_the_value_of_cars">Код проекта</a></p>
     </td>
   </tr>
-
-  <!-- РЯД 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚗 Оценка рисков каршеринга</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/SQL-PostgreSQL-blue" alt="SQL" />
-          <img src="https://img.shields.io/badge/ML-CatBoost-green" alt="CatBoost" />
-      </div>
-      <p><strong>Суть:</strong> Прогнозирование вероятности ДТП по профилю водителя и авто для управления рисками.</p>
-      <p><strong>Стек:</strong> SQL (Complex Joins), Phik, Feature Importance.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/road_accident_risk_assessment_system"><strong>Посмотреть код »</strong></a>
-      </p>
+      <h3 align="center">🚗 Риски каршеринга (SQL)</h3>
+      <p>Прогноз вероятности ДТП на основе данных из PostgreSQL.</p>
+      <p align="center"><a href="https://github.com/Isaev-Alexander-1985/road_accident_risk_assessment_system">Код проекта</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚖 Прогноз заказов такси</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/Time_Series-Analysis-orange" alt="Time Series" />
-          <img src="https://img.shields.io/badge/Metric-RMSE_34-success" alt="RMSE" />
-      </div>
-      <p><strong>Суть:</strong> Предсказание пикового спроса на такси на следующий час для оптимизации автопарка.</p>
-      <p><strong>Стек:</strong> Statsmodels, Resampling, Lags & Rolling Mean.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/taxi_order_forecasting"><strong>Посмотреть код »</strong></a>
-      </p>
+      <h3 align="center">🚖 Прогноз спроса на такси</h3>
+      <p>Анализ временных рядов и предсказание пиковых нагрузок.</p>
+      <p align="center"><a href="https://github.com/Isaev-Alexander-1985/taxi_order_forecasting">Код проекта</a></p>
     </td>
   </tr>
-
-  <!-- РЯД 3 -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚫 Поиск токсичных комментариев</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/NLP-TF--IDF-yellow" alt="NLP" />
-          <img src="https://img.shields.io/badge/Library-Spacy-blue" alt="Spacy" />
-      </div>
-      <p><strong>Суть:</strong> ML-модератор для интернет-магазина. Классификация комментариев на позитивные и токсичные.</p>
-      <p><strong>Стек:</strong> Spacy (Lemmatization), Logistic Regression, Class Balancing.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/project_for_wikishop"><strong>Посмотреть код »</strong></a>
-      </p>
+      <h3 align="center">🚫 Классификация текстов</h3>
+      <p>Поиск токсичных комментариев с использованием NLP (Spacy/TF-IDF).</p>
+      <p align="center"><a href="https://github.com/Isaev-Alexander-1985/project_for_wikishop">Код проекта</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 Персонализация (E-commerce)</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/ML-Pipelines-blue" alt="Pipelines" />
-          <img src="https://img.shields.io/badge/Interpret-SHAP-orange" alt="SHAP" />
-      </div>
-      <p><strong>Суть:</strong> Прогноз снижения активности покупателей для персонализированных предложений.</p>
-      <p><strong>Стек:</strong> Sklearn Pipelines, ColumnTransformer, SHAP Analysis.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/yandex_practicum_supervised_learning"><strong>Посмотреть код »</strong></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- РЯД 4 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌡️ Прогноз температуры стали</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/ML-CatBoost-green" alt="CatBoost" />
-          <img src="https://img.shields.io/badge/Industry-Optimization-blueviolet" alt="Industry" />
-      </div>
-      <p><strong>Суть:</strong> Оптимизация энергопотребления на комбинате за счет точного предсказания температуры сплава.</p>
-      <p><strong>Стек:</strong> CatBoost, Regression, Feature Engineering, SQL.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/predicting_steel_temperature"><strong>Посмотреть код »</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 Поиск изображений (PoC)</h3>
-      <div align="center">
-          <img src="https://img.shields.io/badge/NLP-BERT-blue" alt="BERT" />
-          <img src="https://img.shields.io/badge/CV-ResNet50-red" alt="ResNet50" />
-      </div>
-      <p><strong>Суть:</strong> Мультимодальная система поиска референсных фотографий по текстовому описанию сцены.</p>
-      <p><strong>Стек:</strong> BERT, ResNet50, Deep Learning, Late Fusion.</p>
-      <p align="center">
-        <a href="https://github.com/Isaev-Alexander-1985/Images_search_by_text_query"><strong>Посмотреть код »</strong></a>
-      </p>
+      <h3 align="center">🛒 E-commerce Pipeline</h3>
+      <p>Автоматизация обработки данных и обучения моделей через Sklearn Pipelines.</p>
+      <p align="center"><a href="https://github.com/Isaev-Alexander-1985/yandex_practicum_supervised_learning">Код проекта</a></p>
     </td>
   </tr>
 </table>
@@ -215,3 +180,4 @@
 - **Telegram:** [@Lestat_1856](https://t.me/Lestat_1856)
 - **Email:** [lestat1856@gmail.com](mailto:lestat1856@gmail.com)
 - **Email:** [sandro-issa@yandex.ru](mailto:sandro-issa@yandex.ru)
+```
