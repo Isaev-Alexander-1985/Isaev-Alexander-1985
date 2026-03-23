@@ -5,7 +5,7 @@
 Я специализируюсь на анализе данных и машинном обучении. Имею опыт в управлении сложными инженерными проектами.
 
 - 🎓 **Выпускник курса Data Science в Яндекс Практикуме** 
-  ([Диплом RU](https://github.com/Isaev-Alexander-1985/Isaev-Alexander-1985/blob/main/Diploma_DS_Yandex_Isaev_rus.pdf))
+  ([Диплом RU](https://github.com/Isaev-Alexander-1985/Isaev-Alexander-1985/blob/main/Diploma_DS_Yandex_Isaev_rus.pdf) | [Diploma ENG](https://github.com/Isaev-Alexander-1985/Isaev-Alexander-1985/blob/main/Diploma_DS_Yandex_Isaev_eng.pdf))
 - 📜 **Успешно завершил курс ClickHouse на Stepik** ([смотреть сертификат](https://stepik.org/cert/3112566)).
 - 🌍 **Локация:** Иваново (Готов к переезду: Москва, СПб, возможна релокация).
 - 🗣 **Английский:** B2 (Upper Intermediate).
